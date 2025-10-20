@@ -7,7 +7,7 @@ env\Scripts\activate
 install django
 pip install django
 
-django-admin startproject config
+django-admin startproject config .
 
 to run the server
 python manage.py runserver 
